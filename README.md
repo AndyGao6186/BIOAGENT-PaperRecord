@@ -11,7 +11,7 @@
 ### 📅 10-15 DeepScientist wjy
 * 文件夹: [10.15 DeepScientist wjy](10.15%20DeepScientist%20wjy)
 
-### 📅 09-17 Biomni wjj
+### 📅 09-17 Biomni wjy
 * 文件夹: [9.17 Biomni wjy](9.17%20Biomni%20wjj)
 
 ---
