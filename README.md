@@ -18,4 +18,7 @@
 ### 📅 12-4 AgentEvolver wjy
 * 文件夹: [12.4 AgentEvolver wjy](2025/12.4%20AgentEvolver%20wjy)
 
+### 📅 12-10 SelfEvolveAgents lyy
+* 文件夹: [12.10 SelfEvolveAgents lyy](2025/12.10%20SelfEvolveAgents%20lyy)
+
 ---
